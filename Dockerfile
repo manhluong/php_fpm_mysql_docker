@@ -1,5 +1,6 @@
 ############################################################
-# Dockerfile with php and mysql
+# Dockerfile based on official php-fpm with mysql support
+# enabled.
 ############################################################
 
 FROM php:7-fpm
